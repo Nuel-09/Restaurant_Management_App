@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="logo_color">#E44F4A</color>
+    <color name="banner_color">#E45D59</color>
+    <color name="red">#E9613F</color>
+    <color name="indicator">#B30000</color>
+    <color name="grey">#FADCE4E4</color>
+    <color name="Add_to_basket">#928F8D</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#5AE71D</color>
+    <color name="buttombar">#613A2C</color>
+    <color name="arch_card_background">#C59E90</color>
+
+    <color name="manageCategories">#F0A14A</color>
+    <color name="manageusers">#13B6A3</color>
+    <color name="manageshift">#481F83</color>
+    <color name="managepayroll">#DC1B9B</color>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gracetastybites</string>
+    <string name="appname_intro"><b>GRACE TASTY BITES</b> </string>  <!-- Name for the app -->
+    <string name="logo">LOGO</string> <!-- for contentdescription accessibility -->
+    <string name="introScreen_Title"> Welcome to <i><font color="#F7D95854">GRACE TASTY BITES</font></i>, where every <font color="#F7D95854">BITE</font> is a delight </string>
+    <string name="introScreen_SubTitle">Get started your culinary journey. Don\'t have an account yet? Sign up now to start savoring the delights. Your next delicious\n
+        adventure awaits!"</string>
+    <string name="getStarted">Let\'s get Started</string>
+    <string name="signing">Already have an account? <font color="#F7D95854"> Sign In </font></string>
+
+</resources>
